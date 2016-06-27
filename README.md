@@ -1,2 +1,2 @@
 # znc-chef
-My personal git repo for znc
+My personal chef repo for znc
